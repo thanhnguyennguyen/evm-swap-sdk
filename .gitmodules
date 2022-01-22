@@ -1,3 +1,6 @@
 [submodule "aurora/wannaswap-sdk"]
 	path = aurora/wannaswap-sdk
 	url = git@github.com:thanhnguyennguyen/wannaswap-sdk.git
+[submodule "moonbeam/stellaswap-sdk"]
+	path = moonbeam/stellaswap-sdk
+	url = git@github.com:thanhnguyennguyen/stellaswap-sdk.git
