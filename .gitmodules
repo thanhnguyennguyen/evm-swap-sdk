@@ -7,3 +7,6 @@
 [submodule "aurora/auroraswap-sdk"]
 	path = aurora/auroraswap-sdk
 	url = git@github.com:thanhnguyennguyen/auroraswap-sdk.git
+[submodule "aurora/trisolaris-sdk"]
+	path = aurora/trisolaris-sdk
+	url = git@github.com:trisolaris-labs/sdk.git
