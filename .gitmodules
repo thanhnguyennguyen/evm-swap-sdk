@@ -4,3 +4,6 @@
 [submodule "moonbeam/stellaswap-sdk"]
 	path = moonbeam/stellaswap-sdk
 	url = git@github.com:thanhnguyennguyen/stellaswap-sdk.git
+[submodule "aurora/auroraswap-sdk"]
+	path = aurora/auroraswap-sdk
+	url = git@github.com:thanhnguyennguyen/auroraswap-sdk.git
