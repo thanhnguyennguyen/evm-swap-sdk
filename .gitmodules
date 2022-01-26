@@ -10,3 +10,6 @@
 [submodule "aurora/trisolaris-sdk"]
 	path = aurora/trisolaris-sdk
 	url = git@github.com:trisolaris-labs/sdk.git
+[submodule "moonbeam/solarflare-sdk"]
+	path = moonbeam/solarflare-sdk
+	url = git@github.com:thanhnguyennguyen/solarflare-sdk.git
