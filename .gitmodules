@@ -16,3 +16,9 @@
 [submodule "moonbeam/beamswap-sdk"]
 	path = moonbeam/beamswap-sdk
 	url = git@github.com:thanhnguyennguyen/beamswap-sdk.git
+[submodule "avalanche/joe-sdk"]
+	path = avalanche/joe-sdk
+	url = https://github.com/traderjoe-xyz/joe-sdk.git
+[submodule "avalanche/pangolin-sdk"]
+	path = avalanche/pangolin-sdk
+	url = git@github.com:thanhnguyennguyen/pangolin-sdk.git
