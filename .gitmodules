@@ -22,3 +22,6 @@
 [submodule "avalanche/pangolin-sdk"]
 	path = avalanche/pangolin-sdk
 	url = git@github.com:thanhnguyennguyen/pangolin-sdk.git
+[submodule "bsc/biswap-sdk"]
+	path = bsc/biswap-sdk
+	url = git@github.com:thanhnguyennguyen/biswap-sdk.git
