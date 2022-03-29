@@ -25,3 +25,6 @@
 [submodule "bsc/biswap-sdk"]
 	path = bsc/biswap-sdk
 	url = git@github.com:thanhnguyennguyen/biswap-sdk.git
+[submodule "bsc/babyswap-sdk"]
+	path = bsc/babyswap-sdk
+	url = git@github.com:thanhnguyennguyen/babyswap-sdk.git
