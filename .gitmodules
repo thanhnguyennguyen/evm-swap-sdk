@@ -31,3 +31,6 @@
 [submodule "moonbeam/zenlink-sdk"]
 	path = moonbeam/zenlink-sdk
 	url = git@github.com:thanhnguyennguyen/zenlink-sdk.git
+[submodule "bsc/apeswap-sdk"]
+	path = bsc/apeswap-sdk
+	url = git@github.com:ApeSwapFinance/apeswap-sdk.git
