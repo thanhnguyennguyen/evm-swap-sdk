@@ -28,3 +28,6 @@
 [submodule "bsc/babyswap-sdk"]
 	path = bsc/babyswap-sdk
 	url = git@github.com:thanhnguyennguyen/babyswap-sdk.git
+[submodule "moonbeam/zenlink-sdk"]
+	path = moonbeam/zenlink-sdk
+	url = git@github.com:thanhnguyennguyen/zenlink-sdk.git
