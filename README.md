@@ -20,7 +20,7 @@ NodeJS SDK collection for all decentralized exchanges
 
 ## Fantom
 - [Spookyswap SDK](https://www.npmjs.com/package/spookyswap-sdk)
-- [Spirit SDK]()
+- [Spirit SDK](https://www.npmjs.com/package/spiritswap-sdk)
 
 ## TomoChain
 - [LuaSwap SDK](https://www.npmjs.com/package/@luaswap/sdk)
