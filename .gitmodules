@@ -40,3 +40,6 @@
 [submodule "polygon/quickswap-sdk"]
 	path = polygon/quickswap-sdk
 	url = git@github.com:QuickSwap/QuickSwap-sdk.git
+[submodule "polygon/dfyn-sdk"]
+	path = polygon/dfyn-sdk
+	url = git@github.com:thanhnguyennguyen/dfyn-sdk.git
