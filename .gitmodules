@@ -34,3 +34,6 @@
 [submodule "bsc/apeswap-sdk"]
 	path = bsc/apeswap-sdk
 	url = git@github.com:ApeSwapFinance/apeswap-sdk.git
+[submodule "aurora/nearpad-sdk"]
+	path = aurora/nearpad-sdk
+	url = git@github.com:thanhnguyennguyen/nearpad-sdk.git
