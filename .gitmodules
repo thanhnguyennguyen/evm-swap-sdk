@@ -43,3 +43,6 @@
 [submodule "polygon/dfyn-sdk"]
 	path = polygon/dfyn-sdk
 	url = git@github.com:thanhnguyennguyen/dfyn-sdk.git
+[submodule "polygon/sushiswap-sdk"]
+	path = polygon/sushiswap-sdk
+	url = git@github.com:thanhnguyennguyen/sushiswap-polygon-sdk.git
