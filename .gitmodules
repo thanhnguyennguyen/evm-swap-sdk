@@ -49,3 +49,6 @@
 [submodule "fantom/spookyswap-sdk"]
 	path = fantom/spookyswap-sdk
 	url = git@github.com:SpookySwap/spookyswap-sdk.git
+[submodule "fantom/spiritswap-sdk"]
+	path = fantom/spiritswap-sdk
+	url = git@github.com:thanhnguyennguyen/spiritswap-sdk.git
