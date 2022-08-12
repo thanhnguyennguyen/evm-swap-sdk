@@ -1,7 +1,7 @@
 # evm-swap-sdk
 NodeJS SDK collection for all decentralized exchanges
 
-# List of SDKs
+# NPM packages
 
 ## Aurora
 - [trisolaris SDK](https://www.npmjs.com/package/@trisolaris/sdk)
