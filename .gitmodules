@@ -52,3 +52,6 @@
 [submodule "fantom/spiritswap-sdk"]
 	path = fantom/spiritswap-sdk
 	url = git@github.com:thanhnguyennguyen/spiritswap-sdk.git
+[submodule "tomochain/luaswap-sdk"]
+	path = tomochain/luaswap-sdk
+	url = git@github.com:tomochain/luaswap-sdk.git
