@@ -55,3 +55,6 @@
 [submodule "tomochain/luaswap-sdk"]
 	path = tomochain/luaswap-sdk
 	url = git@github.com:tomochain/luaswap-sdk.git
+[submodule "optimism/velodrome-sdk"]
+	path = optimism/velodrome-sdk
+	url = git@github.com:thanhnguyennguyen/velodrome-sdk.git

@@ -34,5 +34,5 @@ NodeJS SDK collection for all decentralized exchanges
 - [Pangolin SDK](https://www.npmjs.com/package/pangolin-sdk)
 - [TraderJoe SDK](https://www.npmjs.com/package/@traderjoe-xyz/sdk)
 
-## Optimistic
+## Optimism
 - [Velodrome SDK](https://www.npmjs.com/package/velodrome-sdk)
