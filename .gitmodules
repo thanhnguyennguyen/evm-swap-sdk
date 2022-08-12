@@ -37,3 +37,6 @@
 [submodule "aurora/nearpad-sdk"]
 	path = aurora/nearpad-sdk
 	url = git@github.com:thanhnguyennguyen/nearpad-sdk.git
+[submodule "polygon/quickswap-sdk"]
+	path = polygon/quickswap-sdk
+	url = git@github.com:QuickSwap/QuickSwap-sdk.git
