@@ -46,3 +46,6 @@
 [submodule "polygon/sushiswap-sdk"]
 	path = polygon/sushiswap-sdk
 	url = git@github.com:thanhnguyennguyen/sushiswap-polygon-sdk.git
+[submodule "fantom/spookyswap-sdk"]
+	path = fantom/spookyswap-sdk
+	url = git@github.com:SpookySwap/spookyswap-sdk.git
