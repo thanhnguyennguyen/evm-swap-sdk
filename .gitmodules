@@ -61,3 +61,6 @@
 [submodule "polygon/meshswap-sdk"]
 	path = polygon/meshswap-sdk
 	url = git@github.com:thanhnguyennguyen/meshswap-sdk.git
+[submodule "polygon/polymm-sdk"]
+	path = polygon/polymm-sdk
+	url = git@github.com:thanhnguyennguyen/polymm-sdk.git
