@@ -58,3 +58,6 @@
 [submodule "optimism/velodrome-sdk"]
 	path = optimism/velodrome-sdk
 	url = git@github.com:thanhnguyennguyen/velodrome-sdk.git
+[submodule "polygon/meshswap-sdk"]
+	path = polygon/meshswap-sdk
+	url = git@github.com:thanhnguyennguyen/meshswap-sdk.git

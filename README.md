@@ -17,6 +17,7 @@ NodeJS SDK collection for all decentralized exchanges
 - [Quickswap SDK](https://www.npmjs.com/package/quickswap-sdk)
 - [Dfyn SDK](https://www.npmjs.com/package/dfyn-sdk)
 - [Sushiswap Polygon SDK](https://www.npmjs.com/package/sushiswap-polygon-sdk)
+- [Meshswap SDK](https://www.npmjs.com/package/meshswap-sdk)
 
 ## Fantom
 - [Spookyswap SDK](https://www.npmjs.com/package/spookyswap-sdk)
