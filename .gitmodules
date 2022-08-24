@@ -64,3 +64,6 @@
 [submodule "polygon/polymm-sdk"]
 	path = polygon/polymm-sdk
 	url = git@github.com:thanhnguyennguyen/polymm-sdk.git
+[submodule "near/arbitoor-sdk"]
+	path = near/arbitoor-sdk
+	url = git@github.com:arbitoor/arbitoor-core.git

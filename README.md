@@ -38,3 +38,7 @@ NodeJS SDK collection for all decentralized exchanges
 
 ## Optimism
 - [Velodrome SDK](https://www.npmjs.com/package/velodrome-sdk)
+
+## Near
+- [Arbitoor SDK](https://www.npmjs.com/package/@arbitoor/arbitoor-core)
+
